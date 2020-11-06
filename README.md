@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-A simple turtle gui based beginner game implemented using python.
+A simple beginner game implemented using Pygame in python.
